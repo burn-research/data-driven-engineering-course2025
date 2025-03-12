@@ -12,7 +12,7 @@ Icon
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
-.Spotlight-V100
+.Spotlight-V100 
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
@@ -26,4 +26,8 @@ Temporary Items
 .apdisk
 
 # Files
-calendar.xlsx
+*.xlsx
+POD/pca.key
+POD/pod.key
+POD/visuals.py
+POD/images/*
