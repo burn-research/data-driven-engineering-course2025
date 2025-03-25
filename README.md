@@ -12,3 +12,6 @@ Materials for the data-driven engineering course at ULB.
 ## Exercises:
 
 - [Principal component analysis (PCA)](PCA/)
+- [Proper Orthogonal Decomposition (POD)](POD/)
+- [Clustering](Clustering/) 
+- [Regression](Regression/)
